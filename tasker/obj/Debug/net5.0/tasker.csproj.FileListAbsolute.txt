@@ -1,0 +1,16 @@
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\obj\Debug\net5.0\tasker.csproj.AssemblyReference.cache
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\obj\Debug\net5.0\tasker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\obj\Debug\net5.0\tasker.AssemblyInfoInputs.cache
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\obj\Debug\net5.0\tasker.AssemblyInfo.cs
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\obj\Debug\net5.0\tasker.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\bin\Debug\net5.0\tasker.exe
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\bin\Debug\net5.0\tasker.deps.json
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\bin\Debug\net5.0\tasker.runtimeconfig.json
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\bin\Debug\net5.0\tasker.runtimeconfig.dev.json
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\bin\Debug\net5.0\tasker.dll
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\bin\Debug\net5.0\tasker.pdb
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\obj\Debug\net5.0\tasker.dll
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\obj\Debug\net5.0\refint\tasker.dll
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\obj\Debug\net5.0\tasker.pdb
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\obj\Debug\net5.0\tasker.genruntimeconfig.cache
+C:\Users\Ibrahim Aliyev\source\repos\tasker\tasker\obj\Debug\net5.0\ref\tasker.dll
